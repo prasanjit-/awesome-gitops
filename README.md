@@ -43,6 +43,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [GitOps.tech](https://www.gitops.tech/) - a summary of how GitOps works
 - [GitOps Conversation Kit](https://gitops-community.github.io/kit/) - How to showcase GitOps awesomeness and convince all stakeholders to implement it
 - [GitOps Working Group](https://github.com/gitops-working-group/gitops-working-group) - GitHub repo of GitOps working group under the CNCF App Delivery SIG.
+- [GitOps Playlist](https://www.youtube.com/results?search_query=gitops&sp=EgIQAw%253D%253D) - GitOps playlist on YouTube.
 
 ## Tools
 
