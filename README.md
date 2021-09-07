@@ -84,6 +84,12 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Managing a multi-tenant cluster with GitOps](https://github.com/stefanprodan/fluxcd-multi-tenancy) - Flux and Kustomize tutorial
 - [GitOps-style continuous delivery with Cloud Build](https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build) - Google Cloud Build tutorial
 
+
+## Demonstrations
+
+- [GitOps Demo by Cloud Academy](https://github.com/cloudacademy/gitops-demo) - This repo from Cloud Academy is a proof-of-concept demonstration for GitOps practices.
+- [GitOps Demo by Gitlab](https://gitlab.com/gitops-demo/readme) - This demo from Gitlab is intended to show how to use GitOps Infrastructure and Application management.
+
 ## Community
 
 - [Kubernetes slack](https://slack.kubernetes.io/) - #gitops channel for discussion of GitOps patterns and tooling
